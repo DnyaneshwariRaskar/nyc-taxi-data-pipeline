@@ -466,28 +466,6 @@ On successful completion, the outputs are written to:
 
 
 
-\## Screenshots
-
-
-
-!\[Successful pipeline execution](screenshots/pipeline\_success.png)
-
-
-
-!\[Generated Parquet outputs](screenshots/processedoutput.png)
-
-
-
-!\[Pickup location summary](screenshots/pickuplocation\_summary.png)
-
-
-
-!\[Average trip speed](screenshots/average\_speed.png)
-
-
-
-
-
 
 
 \## Future Enhancements
